@@ -53,7 +53,7 @@ function Form() {
 </div>
 
   </div>
-  <button type="submit" className="btn btn-primary btn-sm shadow-none" style={{width:355 , marginTop:20, marginLeft:-25, padding:5, marginBottom:18}}>Get Started</button>
+  <button type="submit" className="btn btn-primary btn-sm shadow-none" style={{width:355 , marginTop:20, marginLeft:-30, padding:5, marginBottom:18}}>Get Started</button>
 
 </form>
 </div>
