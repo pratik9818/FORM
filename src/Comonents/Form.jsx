@@ -4,7 +4,7 @@ function Form() {
   return (
     <>
      
-     <div className="card text-center bg-light" style={{border:"none"}}>
+     <div className="card text-center" style={{border:"none"}}>
 
   
 
@@ -62,9 +62,7 @@ function Form() {
 
 
 
-<div className="footer" style={{fontSize:14}}>
-Terms of use  |  Privacy policy 
-</div>
+    
 
 </div>
     </>
